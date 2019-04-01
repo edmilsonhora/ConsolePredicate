@@ -1,0 +1,7 @@
+C:\Users\EDMILSON.SILVA\source\repos\ConsoleAppPredicate\ConsoleAppPredicate\bin\Debug\ConsoleAppPredicate.exe.config
+C:\Users\EDMILSON.SILVA\source\repos\ConsoleAppPredicate\ConsoleAppPredicate\bin\Debug\ConsoleAppPredicate.exe
+C:\Users\EDMILSON.SILVA\source\repos\ConsoleAppPredicate\ConsoleAppPredicate\bin\Debug\ConsoleAppPredicate.pdb
+C:\Users\EDMILSON.SILVA\source\repos\ConsoleAppPredicate\ConsoleAppPredicate\obj\Debug\ConsoleAppPredicate.csprojAssemblyReference.cache
+C:\Users\EDMILSON.SILVA\source\repos\ConsoleAppPredicate\ConsoleAppPredicate\obj\Debug\ConsoleAppPredicate.csproj.CoreCompileInputs.cache
+C:\Users\EDMILSON.SILVA\source\repos\ConsoleAppPredicate\ConsoleAppPredicate\obj\Debug\ConsoleAppPredicate.exe
+C:\Users\EDMILSON.SILVA\source\repos\ConsoleAppPredicate\ConsoleAppPredicate\obj\Debug\ConsoleAppPredicate.pdb
